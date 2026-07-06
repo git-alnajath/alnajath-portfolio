@@ -7,7 +7,7 @@ export const NAME_PARTS = [
   { text: " " },
   { text: "Najath", color: "text-red-500", glow: true },
   { text: " " },
-  { text: "J", color: "text-white" },
+  { text: ".J", color: "text-white" },
 ];
 
 export const TECH = ["React.js","Next.js","TypeScript","Tailwind CSS","Redux","Axios","REST APIs"];
@@ -22,7 +22,7 @@ export const STATS = [
 export const EXP = {
   role: "Software Engineer Trainee",
   company: "TetraDtech Solutions",
-  date: "Nov 2024 – Present",
+  date: "Nov 2025 – Present",
   loc: "Chennai, India",
   bullets: [
     "Led end-to-end frontend development of a production e-commerce application using React.js and Next.js with TypeScript.",
