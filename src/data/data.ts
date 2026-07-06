@@ -14,7 +14,7 @@ export const TECH = ["React.js","Next.js","TypeScript","Tailwind CSS","Redux","A
 
 export const STATS = [
   { num: 7, suffix: "+", label: "core modules delivered", count: true },
-  { num: 1.5, suffix: "y", label: "production experience", count: true, decimal: true },
+  { num: 0.8, suffix: "m", label: "production experience", count: true, decimal: true },
   { num: "MCA", label: "master's degree" },
   { num: "∞", label: "things to learn" },
 ];
