@@ -3,9 +3,9 @@ export const NAV = ["about","experience","projects","skills","contact"];
 export const ROLES = ["Frontend Developer","React.js Engineer","Next.js Developer","UI Architect","E-Commerce Builder"];
 
 export const NAME_PARTS = [
-  { text: "Al", color: "text-white" },
+  { text: "AL", color: "text-white" },
   { text: " " },
-  { text: "Najath", color: "text-red-500", glow: true },
+  { text: "NAJATH", color: "text-red-500", glow: true },
   { text: " " },
   { text: ".J", color: "text-white" },
 ];
